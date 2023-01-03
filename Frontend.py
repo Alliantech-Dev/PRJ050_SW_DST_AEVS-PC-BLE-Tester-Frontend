@@ -3,15 +3,15 @@ import tkinter as tk
 from tkinter import ttk
 import ctypes
 
-from Backend.AevsBleTester import central
-from Backend.AevsBleTester import GetSystemStatus
-from Backend.AevsBleTester import GetSystemInfos
-from Backend.AevsBleTester import ReadListFiles
-from Backend.AevsBleTester import WriteAndUpdateConfig
-from Backend.AevsBleTester import StartRecording
-from Backend.AevsBleTester import StopRecording
-from Backend.AevsBleTester import DownloadFile
-from Backend.AevsBleTester import DeleteFile
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import central
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import GetSystemStatus
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import GetSystemInfos
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import ReadListFiles
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import WriteAndUpdateConfig
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import StartRecording
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import StopRecording
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import DownloadFile
+from Modules.PRJ050_SW_DST_AEVS_PC_BLE_Tester.AevsBleTester import DeleteFile
 #from Backend.AevsBleTester import InitializeConnection
 
 
