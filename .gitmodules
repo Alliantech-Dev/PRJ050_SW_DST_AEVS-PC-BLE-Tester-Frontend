@@ -1,0 +1,6 @@
+[submodule "Modules/PRJ050_SW_DST_AEVS-PC-BLE-Tester"]
+	path = Modules/PRJ050_SW_DST_AEVS-PC-BLE-Tester
+	url = https://github.com/Alliantech-Dev/PRJ050_SW_DST_AEVS-PC-BLE-Tester
+[submodule "Modules/PRJ019_SW_DST_BlePeripheralSimulatorPython"]
+	path = Modules/PRJ019_SW_DST_BlePeripheralSimulatorPython
+	url = https://github.com/Alliantech-Dev/PRJ019_SW_DST_BlePeripheralSimulatorPython
